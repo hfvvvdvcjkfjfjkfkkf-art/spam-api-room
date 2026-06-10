@@ -7,3 +7,14 @@ urllib3
 pycryptodome
 httpx
 pycryptodome
+flask
+requests
+psutil
+pyjwt
+protobuf
+cryptography
+pycryptodome
+urllib3
+pycryptodomex
+google-auth
+psutil
